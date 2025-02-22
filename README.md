@@ -1,2 +1,2 @@
 # SettleSmart
-AI Driven Relocation Evaluation Tool
+Data-Driven Relocation Evaluation Tool
